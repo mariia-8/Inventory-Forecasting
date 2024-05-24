@@ -1,5 +1,5 @@
 # Inventory-Forecasting
-This project aims to support a small gift store with inventory planning by forecasting inventory levels for each product using Multi Linear Regression and Random Forest. The CRISP-DM method was used to guide the data mining phases, including business understanding, data understanding, data preparation, modeling, and evaluation. 
+This project aims to support an online gift store with inventory planning by forecasting inventory levels for each product using Multi Linear Regression and Random Forest. The CRISP-DM method was used to guide the data mining phases, including business understanding, data understanding, data preparation, modeling, and evaluation. 
 
 Additionally, in this analysis, we answered the following key questions to better understand factors that influence inventory levels:
 1. What products, on average, are ordered in large volumes?
